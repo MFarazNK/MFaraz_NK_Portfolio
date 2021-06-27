@@ -30,3 +30,9 @@
 * Used the documentation given with the csv file to understand the relationship between columns
 * Used EDA to detect outliers
 * Replaced null values with appropriate values
+
+# [Project 3: Business Intelligence Dashboard for Quality Control Department at Yunus Textile Mills](https://app.powerbi.com/view?r=eyJrIjoiMzczMTY3YWUtOGVkMC00ZTA1LTk4NDEtNTkwNTlkYzBmY2FhIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection661db554328d0c1bc077)
+
+* Created a BI dashboard for Quality control department at a Textile Mill
+* Howed the number of cutting defects in each unit using animated donut chart
+* [Github repo link](https://github.com/MFarazNK/BI-Dashboard-2)
