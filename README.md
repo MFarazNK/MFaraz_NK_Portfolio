@@ -8,7 +8,7 @@
 * Data can be filtered through timeline as well as according to category of machines
 * [Github Repo link](https://github.com/MFarazNK/Project-1-Business-Intelligence-Dashboard-for-a-Processing-Plant-at-X-Industry)
 
-![](https://github.com/MFarazNK/MFaraz_NK_Portfolio/blob/main/images/Dashboard%20picture.jpg)
+![](/images/Dashboard%20picture.jpg)
 
 # [Project 2: Data Cleaning and Exploratory Data Analysis on python](https://github.com/MFarazNK/Data-Cleaning)
 * Data Cleaning on the "house price prediction" data set
@@ -38,4 +38,4 @@
 * Howed the number of cutting defects in each unit using animated donut chart
 * [Github repo link](https://github.com/MFarazNK/BI-Dashboard-2)
 
-![](https://github.com/MFarazNK/MFaraz_NK_Portfolio/blob/main/images/ytm%20combined%20dashboards.jpg)
+![](/images/ytm%20combined%20dashboards.jpg)
