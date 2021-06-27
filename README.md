@@ -36,3 +36,5 @@
 * Created a BI dashboard for Quality control department at a Textile Mill
 * Howed the number of cutting defects in each unit using animated donut chart
 * [Github repo link](https://github.com/MFarazNK/BI-Dashboard-2)
+
+![](https://github.com/MFarazNK/MFaraz_NK_Portfolio/blob/main/images/ytm%20combined%20dashboards.jpg)
