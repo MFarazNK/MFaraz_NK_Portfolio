@@ -1,6 +1,6 @@
 # MFaraz_NK_Portfolio
 
-# [Project 1: Business Intelligence Dashboard for a Processing Plant at 'X' Industry](file:///D:/Linkedin%20video/Processing%20Plant.html)
+# [Project 1: Business Intelligence Dashboard for a Processing Plant at 'X' Industry](https://app.powerbi.com/view?r=eyJrIjoiZTMyM2FlMjctNjQxZi00NDU5LWFlYTMtMjk5MmQ2N2QyYjYzIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=ReportSection)
 * Created a BI dashboard which tells the working performance of every machine on a single screen.
 * Downtime of every machnie is shown divided into types of faults; Mechanical fault, Electrical Fault or Human Error
 * Data of 21 machines is taken for a total duration of 120 days
