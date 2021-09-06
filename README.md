@@ -32,7 +32,11 @@
 * Used EDA to detect outliers
 * Replaced null values with appropriate values
 
-# [Project 3: Business Intelligence Dashboard for Quality Control Department at Yunus Textile Mills](https://app.powerbi.com/view?r=eyJrIjoiMzczMTY3YWUtOGVkMC00ZTA1LTk4NDEtNTkwNTlkYzBmY2FhIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection661db554328d0c1bc077)
+# [Project 4: ML Model Perfomance Comparison](https://github.com/MFarazNK/ML-Model-Performance-Comparison)
+* Here I have used the infamous 'House Price Prediction' data set to compare the model performance using decision tree, random forest and linear regression.  
+* The decision tree was least accurate in all three Linear regression was Second best and Random Forest was the best
+
+# [Project 5: Business Intelligence Dashboard for Quality Control Department at Yunus Textile Mills](https://app.powerbi.com/view?r=eyJrIjoiMzczMTY3YWUtOGVkMC00ZTA1LTk4NDEtNTkwNTlkYzBmY2FhIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection661db554328d0c1bc077)
 
 * Created a BI dashboard for Quality control department at a Textile Mill
 * Howed the number of cutting defects in each unit using animated donut chart
