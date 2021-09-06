@@ -32,11 +32,16 @@
 * Used EDA to detect outliers
 * Replaced null values with appropriate values
 
-# [Project 4: ML Model Perfomance Comparison](https://github.com/MFarazNK/ML-Model-Performance-Comparison)
+# [Project 4:ML Model perforamce comparison on different cross validation techniques AND fine tuning](https://github.com/MFarazNK/ML-Model-Performance-using-different-CV-methods-and-Hyperparameter-tuning)
+* Data set used: Diabetes data set
+* Random forest, logistic regression and decision tree classifier
+* Did fine tuning for hyperparameters
+
+# [Project 5: ML Model Perfomance Comparison](https://github.com/MFarazNK/ML-Model-Performance-Comparison)
 * Here I have used the infamous 'House Price Prediction' data set to compare the model performance using decision tree, random forest and linear regression.  
 * The decision tree was least accurate in all three Linear regression was Second best and Random Forest was the best
 
-# [Project 5: Business Intelligence Dashboard for Quality Control Department at Yunus Textile Mills](https://app.powerbi.com/view?r=eyJrIjoiMzczMTY3YWUtOGVkMC00ZTA1LTk4NDEtNTkwNTlkYzBmY2FhIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection661db554328d0c1bc077)
+# [Project 6: Business Intelligence Dashboard for Quality Control Department at Yunus Textile Mills](https://app.powerbi.com/view?r=eyJrIjoiMzczMTY3YWUtOGVkMC00ZTA1LTk4NDEtNTkwNTlkYzBmY2FhIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection661db554328d0c1bc077)
 
 * Created a BI dashboard for Quality control department at a Textile Mill
 * Howed the number of cutting defects in each unit using animated donut chart
